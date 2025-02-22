@@ -1,5 +1,7 @@
 # Culturama - Guia de Eventos
 
+![Logo do Culturama](./assets/img/imagem-final.png)
+
 Bem-vindo ao **Culturama**, seu portal completo para ficar por dentro dos eventos que acontecem na sua cidade e região! Este site foi desenvolvido utilizando **HTML e CSS**, garantindo uma experiência intuitiva e visualmente atraente.
 
 ## ✨ Sobre o Projeto
